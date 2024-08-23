@@ -1,5 +1,5 @@
 # Traffic-Accidents-Analysis
-I analysis road traffic accidents in Addis Ababa, Ethiopia, and gained some interesting insights. The data was collated from Kaggle and it span from 2016-2020. 
+I analysed road traffic accidents in Addis Ababa, Ethiopia, and gained some interesting insights. The data was collated from Kaggle and it span from 2016-2020. 
 
 ## Hypotheses generated
 1. People with less driving experiences are likely to cause accident
